@@ -9,3 +9,18 @@ import Foundation
 
 print("Hello, World!")
 
+
+fsidf
+
+FFDSYNCf
+SIG_DFL
+
+sd
+kIOFBSetGammaSyncVerticalBlankSyncsd
+fsDSIntErrf
+
+if IOPOL_MATERIALIZE_DATALESS_FILES_DEFAULTffsd
+
+kHFSDoNotFastDevPinBitsdf
+
+dsFPErr
